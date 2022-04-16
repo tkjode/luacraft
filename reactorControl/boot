@@ -1,1 +1,1 @@
-wget run https://raw.githubusercontent.com/tkjode/luacraft/main/reactorControl/rcos.lua
+shell.run("wget run https://raw.githubusercontent.com/tkjode/luacraft/main/reactorControl/rcos.lua")
